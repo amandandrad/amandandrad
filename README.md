@@ -1,4 +1,4 @@
- 🔥 Future developer
+ 🔥 Developer
 <br> 👩🏻‍💻 Análise e Desenvolvimento de Sistemas
 <br> ⚡ Tenho conhecimento em HTML e CSS
 <br> 🤟🏻 Aprendendo JavaScript
